@@ -17,8 +17,7 @@ function play_game {
             echo "Lower"
         fi
     done
+    echo "Correct!"
 }
 
 play_game
-
-echo "Correct!"
